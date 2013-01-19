@@ -1,8 +1,7 @@
 Example Code For Using USART on STM32F4DISCOVERY (Cortex M4-F) Using FreeRTOS
 ========================
 
-This is contains example code (check : src/main.c) and project for compiling and porting to STM32F4DISCOVERY.
-The project was tested on a STM32F4 Discovery board.
+USART example code (check : src/main.c) for STM32F4DISCOVERY. The code was tested on a STM32F4 Discovery board.
 
 Using USART2 on STM32F4DISCOVERY and minicom (or any other serial terminal) this code will loop back the data sent to STM32F4DISCOVERY.
 
